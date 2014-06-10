@@ -5,9 +5,9 @@ using System.Text;
 
 namespace HolaMundo
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo!!");
             Console.WriteLine("");
